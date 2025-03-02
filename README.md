@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm khan hassan </h1>
 
 A passionate Computer Engineering student and developer from Mumbai University. I love working on innovative projects, especially in automation, AI, and web development.
-
+<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  
 ## 🚀 About Me
 
 - 🔭 Currently working on **Automated & Eco-Friendly Water Cooler Cleaning System**
@@ -49,11 +50,17 @@ A passionate Computer Engineering student and developer from Mumbai University. 
 </div>
 
 ###
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHAN5461&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHAN5461&layout=compact&theme=dark)
+## 🚀 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KHAN5461&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KHAN5461&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 Projects
+###
+###
+
+###
+## 🎯 Projects
 - **[Automated & Eco-Friendly Water Cooler Cleaning System](https://github.com/KHAN5461/project-link)**
 - **[AI-Powered Voice-Controlled Chrome Extension](https://github.com/KHAN5461/project-link)**
 - **[Flappy Bird with Leaderboard & Power-Ups](https://github.com/KHAN5461/project-link)**
