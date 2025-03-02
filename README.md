@@ -1,15 +1,15 @@
 ![Banner](https://your-banner-image-url.com)
 
-# Hi 👋, I'm [Your Name]
+<h1 align="center">Hi 👋, I'm khan hassan </h1>
 
-A passionate Computer Engineering student and developer from [Your Location]. I love working on innovative projects, especially in automation, AI, and web development.
+A passionate Computer Engineering student and developer from Mumbai University. I love working on innovative projects, especially in automation, AI, and web development.
 
 ## 🚀 About Me
 
 - 🔭 Currently working on **Automated & Eco-Friendly Water Cooler Cleaning System**
 - 🌱 Learning **DevOps, AI, and Full Stack Development**
 - 💬 Ask me about **AI, Web Development, and Automation**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **khanhassan5451@gmail.com**
 - ⚡ Fun fact: **I enjoy building AI-powered applications!**
 
 ## 🌐 Connect with me
