@@ -1,36 +1,45 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+![Banner](https://your-banner-image-url.com)
 
-###
-<p align="left">Hello World!!</p>
+# Hi 👋, I'm [Your Name]
 
-###
+A passionate Computer Engineering student and developer from [Your Location]. I love working on innovative projects, especially in automation, AI, and web development.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+## 🚀 About Me
 
-###
+- 🔭 Currently working on **Automated & Eco-Friendly Water Cooler Cleaning System**
+- 🌱 Learning **DevOps, AI, and Full Stack Development**
+- 💬 Ask me about **AI, Web Development, and Automation**
+- 📫 Reach me at **your-email@example.com**
+- ⚡ Fun fact: **I enjoy building AI-powered applications!**
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KHAN5461&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="231" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KHAN5461&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="251" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KHAN5461&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="201" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KHAN5461&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/KHAN5461)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://youtube.com/yourchannel)
 
-###
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KHAN5461&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHAN5461&layout=compact&theme=dark)
+
+## 🚀 Projects
+- **[Automated & Eco-Friendly Water Cooler Cleaning System](https://github.com/KHAN5461/project-link)**
+- **[AI-Powered Voice-Controlled Chrome Extension](https://github.com/KHAN5461/project-link)**
+- **[Flappy Bird with Leaderboard & Power-Ups](https://github.com/KHAN5461/project-link)**
+
+⭐️ Thanks for visiting my profile! Feel free to connect and collaborate!
+
 <img src="https://raw.githubusercontent.com/KHAN5461/KHAN5461/output/snake.svg" alt="Snake animation" />
 
 ###
