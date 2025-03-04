@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./banner.png" alt="Banner" />
 </p>
@@ -5,14 +6,13 @@
 <h1 align="center">Hi 👋, I'm Khan Hassan</h1>
 
 <p align="center">
-  A passionate Computer Engineering student and developer from Mumbai University. I love working on innovative projects, especially in automation, AI, and web development.
+  A passionate Computer Engineering student and developer from Mumbai University. I love working on innovative projects, especially in AI and web development.
 </p>
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **[Automated & Eco-Friendly Water Cooler Cleaning System](https://github.com/KHAN5461/project-link)**
 - 🌱 Learning **DevOps, AI, and Full Stack Development**
-- 💬 Ask me about **AI, Web Development, and Automation**
+- 💬 Ask me about **AI and Web Development**
 - 📫 Reach me at **khanhassan5451@gmail.com**
 - ⚡ Fun fact: **I enjoy building AI-powered applications!**
 
@@ -50,7 +50,6 @@
 
 ## 🎯 Projects
 
-- **[Automated & Eco-Friendly Water Cooler Cleaning System](https://github.com/KHAN5461/project-link)**
 - **[AI-Powered Voice-Controlled Chrome Extension](https://github.com/KHAN5461/project-link)**
 - **[Flappy Bird with Leaderboard & Power-Ups](https://github.com/KHAN5461/project-link)**
 
