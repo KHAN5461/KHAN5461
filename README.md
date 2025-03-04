@@ -1,10 +1,10 @@
-![Banner](https://your-banner-image-url.com)
+![Banner]([https://your-banner-image-url.com](https://drive.google.com/file/d/1uukvsjmUel4rWHJ8xCiXRP4OaTs6gV2k/view?usp=sharing))
 
 <h1 align="center">Hi 👋, I'm khan hassan </h1>
 
 A passionate Computer Engineering student and developer from Mumbai University. I love working on innovative projects, especially in automation, AI, and web development.
 <div align="center" style="display: flex; align-items: center; justify-content: space-between;">
-  
+<div align="left"> 
 ## 🚀 About Me
 
 - 🔭 Currently working on **Automated & Eco-Friendly Water Cooler Cleaning System**
@@ -21,7 +21,7 @@ A passionate Computer Engineering student and developer from Mumbai University. 
 
 ## 🛠️ Languages and Tools
 
-<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -47,7 +47,6 @@ A passionate Computer Engineering student and developer from Mumbai University. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-</div>
 
 ###
 ## 🚀 GitHub Stats
@@ -66,7 +65,7 @@ A passionate Computer Engineering student and developer from Mumbai University. 
 - **[Flappy Bird with Leaderboard & Power-Ups](https://github.com/KHAN5461/project-link)**
 
 ⭐️ Thanks for visiting my profile! Feel free to connect and collaborate!
-
+</div>
 <img src="https://raw.githubusercontent.com/KHAN5461/KHAN5461/output/snake.svg" alt="Snake animation" />
 
 ###
